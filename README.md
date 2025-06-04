@@ -13,7 +13,5 @@ Description of the files
 * A shapefile (*.sha) is a text file that lists all the contour coordinates 
   of the outline of an area of ​​interest.
 * Please use those files with the AIIRR macro, which is available from
- Author's website
-  https://sites.google.com/site/mtahashilucanid/program/AIIRR
- GitHub
-  https://github.com/mtlucanid/AIIRR 
+ Author's website https://sites.google.com/site/mtahashilucanid/program/AIIRR or
+ GitHub https://github.com/mtlucanid/AIIRR 
