@@ -1,0 +1,33 @@
+[AIIRR-data]
+
+This GitHub depository contains the original data of the following publication
+------------------------------------------------------------------------------
+[Title] Area Integrity Index with Random Rearrangement (AIIRR): A new concept 
+for quantifying disruptive colorations.
+
+[Journal] Methods in Ecology and Evolution, in press.
+
+[Authors] Tanahashi, Masahiko[1,2]; Lin, Min-Chen[2]; Lin, Chung-Ping[2]
+
+[Author affiliations]
+[1] Institute of Plant and Microbial Biology (IPMB), Academia Sinica
+[2] Department of Life Science, National Taiwan Normal University
+------------------------------------------------------------------------------
+
+[Description of the files]
+
+* Original insect images and shape files for AIIRR/GabRat-R calculations.
+
+* Each image was resized to have a elytra width of 500 pixels
+  and cropped to 640 × 1600 to ensure the insect was centered.
+
+* A shapefile (*.sha) is a text file that lists all the contour coordinates 
+  of the outline of an area of ​​interest.
+
+* Please use those files with the AIIRR macro, which is available from
+
+ [Author's website]
+  https://sites.google.com/site/mtahashilucanid/program/AIIRR
+  
+ [GitHub]
+  https://github.com/mtlucanid/AIIRR. 
